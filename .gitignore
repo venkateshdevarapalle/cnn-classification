@@ -2,5 +2,5 @@ venv/
 PetImages/
 __pycache__/
 *.pyc
-dog_cat_model.h5
+
 .env
